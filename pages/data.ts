@@ -6,7 +6,7 @@ export const data =  [
       type: 'amount Shopping',
       date: '28 Dec 2022',
       amount: "$980",
-      status: 'accepted'
+      status: 'Accepted'
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ export const data =  [
       type: 'Monthly Subscription',
       date: '29 Dec 2022',
       amount: "$450",
-      status: 'accepted'
+      status: 'Accepted'
     },
     {
       id: 3,
@@ -24,6 +24,6 @@ export const data =  [
       type: 'Weekly Subscription',
       date: '30 Dec 2022',
       amount: "$280",
-      status: 'accepted'
+      status: 'Accepted'
     },
   ];

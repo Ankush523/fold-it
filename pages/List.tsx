@@ -12,10 +12,10 @@ const List = () => {
                         <p className='text-black1'>{name}</p>
                         <p className='text-black1 text-xs'>{txid}</p>
                     </div>
-                    <p className='text-black1 text-sm mt-[5px] w-[150px]'>{type}</p>
-                    <p className='text-black1 text-sm mt-[5px]'>{date}</p>
-                    <p className='text-black1 text-sm mt-[5px]'>{amount}</p>
-                    <p className='text-black1 text-sm mt-[5px]'>{status}</p>
+                    <p className='text-black1 text-sm mt-[5px] w-[150px] text-silver'>{type}</p>
+                    <p className='text-black1 text-sm mt-[5px] text-silver'>{date}</p>
+                    <p className='text-black1 text-sm mt-[5px] text-silver'>{amount}</p>
+                    <p className='text-black1 text-sm mt-[5px] text-blue1 bg-blue1/10 h-[20px] rounded-md px-1'>{status}</p>
                 </article>
             )
         })}
