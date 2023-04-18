@@ -3,7 +3,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='flex flex-col justify-center py-[50px] mx-[10px] my-[10px] px-[90px] bg-black1 rounded-xl bg-gradient-to-r from-black1 via-purple-900 to-blac1'>
+    <div className='flex flex-col justify-center py-[50px] mx-[10px] my-[10px] px-[90px] bg-black1 rounded-xl bg-gradient-to-r from-black1  to-grey2'>
         <div className='flex flex-row justify-between border-b border-b-grey2  pb-[20px]'>
             <label className='text-2xl font-bold'>Flow Money</label>
 

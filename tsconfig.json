@@ -19,6 +19,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/NewChart.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/NewChart.tsx", "pages/Swap.tsx"],
   "exclude": ["node_modules"]
 }
